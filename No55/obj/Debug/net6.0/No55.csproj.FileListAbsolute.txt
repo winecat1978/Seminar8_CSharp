@@ -1,0 +1,15 @@
+C:\Users\mob19\Seminar8double\No55\bin\Debug\net6.0\No55.exe
+C:\Users\mob19\Seminar8double\No55\bin\Debug\net6.0\No55.deps.json
+C:\Users\mob19\Seminar8double\No55\bin\Debug\net6.0\No55.runtimeconfig.json
+C:\Users\mob19\Seminar8double\No55\bin\Debug\net6.0\No55.dll
+C:\Users\mob19\Seminar8double\No55\bin\Debug\net6.0\No55.pdb
+C:\Users\mob19\Seminar8double\No55\obj\Debug\net6.0\No55.csproj.AssemblyReference.cache
+C:\Users\mob19\Seminar8double\No55\obj\Debug\net6.0\No55.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mob19\Seminar8double\No55\obj\Debug\net6.0\No55.AssemblyInfoInputs.cache
+C:\Users\mob19\Seminar8double\No55\obj\Debug\net6.0\No55.AssemblyInfo.cs
+C:\Users\mob19\Seminar8double\No55\obj\Debug\net6.0\No55.csproj.CoreCompileInputs.cache
+C:\Users\mob19\Seminar8double\No55\obj\Debug\net6.0\No55.dll
+C:\Users\mob19\Seminar8double\No55\obj\Debug\net6.0\refint\No55.dll
+C:\Users\mob19\Seminar8double\No55\obj\Debug\net6.0\No55.pdb
+C:\Users\mob19\Seminar8double\No55\obj\Debug\net6.0\No55.genruntimeconfig.cache
+C:\Users\mob19\Seminar8double\No55\obj\Debug\net6.0\ref\No55.dll
