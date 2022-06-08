@@ -1,0 +1,5 @@
+C:\Users\mob19\Seminar8double\No61\obj\Debug\net6.0\No61.csproj.AssemblyReference.cache
+C:\Users\mob19\Seminar8double\No61\obj\Debug\net6.0\No61.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mob19\Seminar8double\No61\obj\Debug\net6.0\No61.AssemblyInfoInputs.cache
+C:\Users\mob19\Seminar8double\No61\obj\Debug\net6.0\No61.AssemblyInfo.cs
+C:\Users\mob19\Seminar8double\No61\obj\Debug\net6.0\No61.csproj.CoreCompileInputs.cache
