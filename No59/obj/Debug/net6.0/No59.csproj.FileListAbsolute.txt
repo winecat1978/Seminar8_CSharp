@@ -1,0 +1,15 @@
+C:\Users\mob19\Seminar8double\No59\bin\Debug\net6.0\No59.exe
+C:\Users\mob19\Seminar8double\No59\bin\Debug\net6.0\No59.deps.json
+C:\Users\mob19\Seminar8double\No59\bin\Debug\net6.0\No59.runtimeconfig.json
+C:\Users\mob19\Seminar8double\No59\bin\Debug\net6.0\No59.dll
+C:\Users\mob19\Seminar8double\No59\bin\Debug\net6.0\No59.pdb
+C:\Users\mob19\Seminar8double\No59\obj\Debug\net6.0\No59.csproj.AssemblyReference.cache
+C:\Users\mob19\Seminar8double\No59\obj\Debug\net6.0\No59.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mob19\Seminar8double\No59\obj\Debug\net6.0\No59.AssemblyInfoInputs.cache
+C:\Users\mob19\Seminar8double\No59\obj\Debug\net6.0\No59.AssemblyInfo.cs
+C:\Users\mob19\Seminar8double\No59\obj\Debug\net6.0\No59.csproj.CoreCompileInputs.cache
+C:\Users\mob19\Seminar8double\No59\obj\Debug\net6.0\No59.dll
+C:\Users\mob19\Seminar8double\No59\obj\Debug\net6.0\refint\No59.dll
+C:\Users\mob19\Seminar8double\No59\obj\Debug\net6.0\No59.pdb
+C:\Users\mob19\Seminar8double\No59\obj\Debug\net6.0\No59.genruntimeconfig.cache
+C:\Users\mob19\Seminar8double\No59\obj\Debug\net6.0\ref\No59.dll
